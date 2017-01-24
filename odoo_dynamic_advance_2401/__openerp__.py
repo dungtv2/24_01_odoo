@@ -7,7 +7,7 @@
             Change The Odoo ListView/FormView On the fly without any technical knowledge
     """,
     'author': "Apps for Odoo",
-    'images': ['images/1.jpg'],
+    'images': ['images/1.png'],
     'depends': ['web'],
     'data': ['templates.xml',
              'security/show_fields_security.xml',
